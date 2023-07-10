@@ -1,0 +1,58 @@
+language: cpp
+
+env: CXX_STANDARD=c++11
+
+# Enable install caching to reduce install time in next builds
+cache: ccache
+
+compiler: g++
+
+sudo: required
+
+dist: bionic
+
+before_install:
+  - cd ../
+  - sudo mv gr-lora ../
+  - cd ../
+  - sudo apt-get update
+
+install:
+  - sudo apt install git cmake g++ libboost-all-dev libgmp-dev swig python3-numpy python3-mako python3-sphinx python3-lxml doxygen libfftw3-dev libcomedi-dev libsdl1.2-dev libgsl-dev libqwt-qt5-dev libqt5opengl5-dev python3-pyqt5 liblog4cpp5-dev libzmq3-dev python3-yaml python3-click python3-click-plugins python3-zmq 
+  - sudo ldconfig
+
+  # Manual GNU Radio install
+  - git clone -b maint-3.8 --recursive https://github.com/gnuradio/gnuradio.git
+  - cd gnuradio
+  - mkdir build
+  - cd build
+  - cmake ../
+  - make
+  - sudo make install
+  - cd ../../
+
+  # Install GNU Radio from PPA - doesn't work right now because it's not packaged correctly
+  #- sudo add-apt-repository ppa:gnuradio/gnuradio -y
+  #- sudo apt-get update -q
+  #- sudo apt install gnuradio gnuradio-dev -y
+
+  # Manual liquidDSP install
+  - git clone https://github.com/jgaeddert/liquid-dsp.git
+  - cd liquid-dsp/
+  - sudo sh ./bootstrap.sh
+  - sh ./configure
+  - make && sudo make install
+  - sudo ldconfig
+  - cd ../
+
+before_script:
+  - cd gr-lora
+  - mkdir build && cd build
+  - cmake ../
+
+script:
+  - make
+  - sudo make install
+
+notifications:
+  email: false

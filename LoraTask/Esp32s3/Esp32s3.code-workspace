@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "write_id",
+			"path": "../../write_id"
+		},
+		{
+			"name": "CPR_ConflictControl",
+			"path": "../CPR_ConflictControl"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.conflictcontrol": "cpp",
+			"*.receivenode": "cpp"
+		}
+	}
+}

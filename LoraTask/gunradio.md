@@ -1,0 +1,1 @@
+sudo python3 lora_receive_file.py

@@ -1,0 +1,7 @@
+*.sigmf-data
+*.sigmf-meta
+*.mat
+*.fig
+*.png
+*.pdf
+*.pptx

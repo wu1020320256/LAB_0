@@ -1,0 +1,302 @@
+Bits (nominal) per symbol: 	7.2
+Bins per symbol: 	512
+Samples per symbol: 	4096
+Decimation: 		8
+Detect pass! The amp_rate is 25.5052
+upchirp_ref is 978
+upchirp_ref_tmp is 61
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7989
+d_cfo is 1556.4 windows_off is 4046
+cfo_diff is 0.757348
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 108.771
+upchirp_ref is 7713
+upchirp_ref_tmp is 482
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7987
+d_cfo is 1571.66 windows_off is 4045
+cfo_diff is 0.88242
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 83.8123
+upchirp_ref is 7733
+upchirp_ref_tmp is 483
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7991
+d_cfo is 1541.14 windows_off is 4046
+cfo_diff is 0.632276
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 65.0036
+upchirp_ref is 7720
+upchirp_ref_tmp is 483
+upchirp_ref is 256
+upchirp_ref is 0
+SYNC pass!
+The upchirp_ref is 0 The downchirp_ref is 7989
+d_cfo is 1548.77 windows_off is 4045
+cfo_diff is 0.694812
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 105.499
+upchirp_ref is 7711
+upchirp_ref_tmp is 482
+upchirp_ref is 254
+upchirp_ref is 8190
+SYNC pass!
+The upchirp_ref is 8190 The downchirp_ref is 7989
+d_cfo is 1564.03 windows_off is 4046
+cfo_diff is 0.819884
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 108.557
+upchirp_ref is 7712
+upchirp_ref_tmp is 482
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7988
+d_cfo is 1564.03 windows_off is 4046
+cfo_diff is 0.819884
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 82.2404
+upchirp_ref is 7701
+upchirp_ref_tmp is 481
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7988
+d_cfo is 1564.03 windows_off is 4046
+cfo_diff is 0.819884
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 108.742
+upchirp_ref is 7711
+upchirp_ref_tmp is 482
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7987
+d_cfo is 1571.66 windows_off is 4045
+cfo_diff is 0.88242
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 70.2449
+upchirp_ref is 7703
+upchirp_ref_tmp is 481
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7989
+d_cfo is 1556.4 windows_off is 4046
+cfo_diff is 0.757348
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 92.4519
+upchirp_ref is 7708
+upchirp_ref_tmp is 482
+upchirp_ref is 256
+upchirp_ref is 0
+SYNC pass!
+The upchirp_ref is 0 The downchirp_ref is 7985
+d_cfo is 1579.28 windows_off is 4044
+cfo_diff is 0.944956
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 87.4016
+upchirp_ref is 7707
+upchirp_ref_tmp is 482
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7987
+d_cfo is 1571.66 windows_off is 4045
+cfo_diff is 0.88242
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 96.8909
+upchirp_ref is 7709
+upchirp_ref_tmp is 482
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7986
+d_cfo is 1579.28 windows_off is 4045
+cfo_diff is 0.944956
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 97.9769
+upchirp_ref is 7715
+upchirp_ref_tmp is 482
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7986
+d_cfo is 1579.28 windows_off is 4045
+cfo_diff is 0.944956
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 89.3308
+upchirp_ref is 7724
+upchirp_ref_tmp is 483
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7985
+d_cfo is 1586.91 windows_off is 4045
+cfo_diff is 0.00749232
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 73 26 ee 64 65 72 07 72 8d (SV<_BW250b8_TP05Ws&derr)
+Detect pass! The amp_rate is 64.8047
+upchirp_ref is 7688
+upchirp_ref_tmp is 480
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7984
+d_cfo is 1594.54 windows_off is 4045
+cfo_diff is 0.0700283
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 73 26 ee 64 65 72 07 72 8d (SV<_BW250b8_TP05Ws&derr)
+Detect pass! The amp_rate is 105.658
+upchirp_ref is 7695
+upchirp_ref_tmp is 481
+upchirp_ref is 254
+upchirp_ref is 8190
+SYNC pass!
+The upchirp_ref is 8190 The downchirp_ref is 7985
+d_cfo is 1594.54 windows_off is 4045
+cfo_diff is 0.0700283
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 98.0061
+upchirp_ref is 7709
+upchirp_ref_tmp is 482
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7984
+d_cfo is 1594.54 windows_off is 4045
+cfo_diff is 0.0700283
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 73 26 ee 64 65 72 07 72 8d (SV<_BW250b8_TP05Ws&derr)
+Detect pass! The amp_rate is 105.22
+upchirp_ref is 7698
+upchirp_ref_tmp is 481
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7986
+d_cfo is 1579.28 windows_off is 4045
+cfo_diff is 0.944956
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 79.1269
+upchirp_ref is 7702
+upchirp_ref_tmp is 481
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7985
+d_cfo is 1586.91 windows_off is 4045
+cfo_diff is 0.00749232
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 73 26 ee 64 65 72 07 72 8d (SV<_BW250b8_TP05Ws&derr)
+Detect pass! The amp_rate is 71.8708
+upchirp_ref is 7689
+upchirp_ref_tmp is 481
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7986
+d_cfo is 1579.28 windows_off is 4045
+cfo_diff is 0.944956
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 93.0456
+upchirp_ref is 7708
+upchirp_ref_tmp is 482
+upchirp_ref is 254
+upchirp_ref is 8190
+SYNC pass!
+The upchirp_ref is 8190 The downchirp_ref is 7984
+d_cfo is 1602.17 windows_off is 4045
+cfo_diff is 0.132564
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 101.209
+upchirp_ref is 7710
+upchirp_ref_tmp is 482
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7984
+d_cfo is 1594.54 windows_off is 4045
+cfo_diff is 0.0700283
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 73 26 ee 64 65 72 07 72 8d (SV<_BW250b8_TP05Ws&derr)
+Detect pass! The amp_rate is 91.773
+upchirp_ref is 7684
+upchirp_ref_tmp is 480
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7985
+d_cfo is 1586.91 windows_off is 4045
+cfo_diff is 0.00749232
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 73 26 ee 64 65 72 07 72 8d (SV<_BW250b8_TP05Ws&derr)
+Detect pass! The amp_rate is 88.8396
+upchirp_ref is 7676
+upchirp_ref_tmp is 480
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7985
+d_cfo is 1586.91 windows_off is 4045
+cfo_diff is 0.00749232
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 63 06 ee 64 65 52 87 72 8d (SV<_BW250b8_TP05WcdeRr)
+Detect pass! The amp_rate is 107.267
+upchirp_ref is 7680
+upchirp_ref_tmp is 480
+upchirp_ref is 254
+upchirp_ref is 8190
+SYNC pass!
+The upchirp_ref is 8190 The downchirp_ref is 7984
+d_cfo is 1602.17 windows_off is 4045
+cfo_diff is 0.132564
+ 1e 31 20header deocded!
+ ff ff 00 00 53 46 31 30 5f 42 57 31 32 35 30 30 30 5f 54 50 32 30 5f 73 65 6e 64 65 72 00 72 0d (SF10_BW125000_TP20_senderr)
+Detect pass! The amp_rate is 95.3645
+upchirp_ref is 7699
+upchirp_ref_tmp is 481
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7983
+d_cfo is 1602.17 windows_off is 4044
+cfo_diff is 0.132564
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 73 26 ee 64 65 72 07 72 8d (SV<_BW250b8_TP05Ws&derr)
+Detect pass! The amp_rate is 64.8907
+upchirp_ref is 7704
+upchirp_ref_tmp is 481
+upchirp_ref is 255
+upchirp_ref is 8191
+SYNC pass!
+The upchirp_ref is 8191 The downchirp_ref is 7983
+d_cfo is 1602.17 windows_off is 4044
+cfo_diff is 0.132564
+ 1e 31 20header deocded!
+ ff de c0 00 53 56 11 3c 5f 42 57 f2 32 35 30 62 38 5f 54 50 30 35 57 73 26 ee 64 65 72 07 72 8d (SV<_BW250b8_TP05Ws&derr)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
